@@ -2,8 +2,9 @@
 Config for eggd_generate_rd_wgs_workbook. Contains:
 
 HPO obos
+* v2019_02_12
+* releases/2018-10-09
 * v2020_12_07
-* releases/2020-12-07
 
 De novo quality score thresholds
 * 0.02 for indels
