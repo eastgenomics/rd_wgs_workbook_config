@@ -5,6 +5,7 @@ HPO obos
 * v2019_02_12
 * releases/2018-10-09
 * v2020_12_07
+* v2022_06_11
 
 De novo quality score thresholds
 * 0.02 for indels
